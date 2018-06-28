@@ -16,3 +16,5 @@
 <p>	-->Add Font : select Font, Supproted font's</p>
 <p>				  ->Font Awesome 5.1 - https://fontawesome.com/changelog/latest</p>
 <p>				  ->Leonardo ui fonts - https://webapps.qlik.com/leonardoui/index.html</p>
+<img src="./kpi_5.png" alt="5nd Version" style="width: 100%;">
+<img src="./kpi_5_2.png" alt="5nd Version" style="width: 100%;">
