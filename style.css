@@ -1,0 +1,114 @@
+.qv-object-Kpi_5 .qv-object-nav>a[tid="nav-menu-zoom-in"] {
+	display: none;
+} 
+.qv-object-Kpi_5 ~ .qv-object-nav>a[tid="nav-menu-zoom-in"] {
+	display: none;
+} 
+/* kpi style 1 */
+.qv-object-Kpi_5 .stat-card {
+    position: relative;
+    display: inline-block;
+    background-color: #fff;
+    max-height: 95%;
+    text-align: left;
+    padding: 15px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    overflow: hidden;
+}
+.qv-object-Kpi_5 .stat-card:hover {
+	    border-color: rgb(0, 0, 0);
+}
+.qv-object-Kpi_5 h2.headings {
+	margin-bottom: 20px;
+}
+.qv-object-Kpi_5 .stat-card h3 {
+	/*font-size: 16px;*/
+	font-size: 1.2em;
+	margin-top: 1px;
+	line-height: 20px;
+	/*padding-right: 45px;*/
+	padding-right: 5%;
+	color: #333;
+	text-align;
+	left;
+}
+.qv-object-Kpi_5 .stat-icon {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.qv-object-Kpi_5 .stat-icon.right {
+	right: 0px;
+}
+.qv-object-Kpi_5 .stat-icon span {
+	position: absolute;
+	z-index: 1;
+	top: -40px;
+	left: 5px;
+	width: 100px;
+	height: 100px;
+	line-height: 120px;
+	border-radius: 50%;
+}
+.qv-object-Kpi_5 .stat-icon i {
+	padding-left: 15px;
+	color: rgb(255, 255, 255);
+	position: relative;
+	z-index: 9;
+	font-size: 24px;
+}
+.qv-object-Kpi_5 .bg-target {
+	background-color: #E07000;
+}
+.qv-object-Kpi_5 .txt-target {
+	color: #E07000;
+}
+.qv-object-Kpi_5 .bg-ontrack {
+	background-color: #007613;
+}
+/*
+.qv-object-Kpi_5 .txt-ontrack {
+	color: #007613;
+}
+*/
+.qv-object-Kpi_5 .bg-failing {
+	background-color: #D43E3A;
+}
+.qv-object-Kpi_5 .txt-failing {
+	color: #D43E3A;
+}
+.qv-object-Kpi_5 .bg-measure {
+	background-color: #186EA5;
+}
+.qv-object-Kpi_5 .txt-measure {
+	color: #186EA5;
+}
+.qv-object-Kpi_5 .stat-card h4.stat-num {
+	/*font-size: 30px;*/
+	font-size: 2.2em;
+	text-align: left;
+	margin-right: 30px;
+}
+.qv-object-Kpi_5 .stat-card .subtext {
+	/*font-size: 12px;*/
+	font-size: 100%;
+	margin-right: 30px;
+}
+.qv-object-Kpi_5 .stat-card .source {
+	/*font-size: 12px;*/
+	font-size: 100%;
+	margin-top: 2px;
+}
+.qv-object-Kpi_5 .stat-card .open-btn {
+	margin-top: 15px;
+}
+
+/* style 2 */
