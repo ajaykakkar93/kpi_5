@@ -1,4 +1,5 @@
 # kpi_5
+
 <p>Qlik Sense Basic Kpi visualization takes 2 measures, Font Awesome 5.1 supported</p>
 <p>Measures : Min 2 Measures is needed</p>
 <p>	-->Expression : can add expression</p>
